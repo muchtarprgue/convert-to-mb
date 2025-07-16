@@ -1,4 +1,4 @@
-export const convertMB = (val = 0) => {
+exports.convertMB = function(val = 0) {
   let res = "0 MB";
   try {
     if (val >= 1000000) {
