@@ -1,0 +1,1 @@
+declare convertMB: (value: number) => string;

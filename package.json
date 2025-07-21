@@ -1,11 +1,15 @@
 {
   "name": "convert-to-mb",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "muchtarprgue",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muchtarprgue/convert-to-mb.git"
+  }
 }

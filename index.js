@@ -1,4 +1,4 @@
-exports.convertMB = function(val = 0) {
+export function convertMB(val = 0) {
   let res = "0 MB";
   try {
     if (val >= 1000000) {
@@ -13,9 +13,9 @@ exports.convertMB = function(val = 0) {
     console.log("error on convert MB : ", error);
     return res;
   }
-};
+}
 
 
-exports.printMsg = function() {
+export function printMsg() {
   console.log("This is a message from the demo package");
 }
