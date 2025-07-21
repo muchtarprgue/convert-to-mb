@@ -3,12 +3,6 @@
 
 Converting Bytes to MB or KB
 
-
-## Authors
-
-- [@muchtarprgue](https://github.com/muchtarprgue)
-
-
 ## Usage/Examples
 
 ![Screenshot](https://raw.githubusercontent.com/muchtarprgue/convert-to-mb/refs/heads/master/resources/convert-to-mb-example.jpeg)
