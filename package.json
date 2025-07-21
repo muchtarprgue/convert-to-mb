@@ -11,5 +11,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/muchtarprgue/convert-to-mb.git"
-  }
+  },
+  "typings": "./converttomb.d.ts"
 }
