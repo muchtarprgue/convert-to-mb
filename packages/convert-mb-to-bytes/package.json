@@ -15,5 +15,8 @@
     "url": "https://github.com/muchtarprgue/convert-to-mb/issues"
   },
   "homepage": "https://github.com/muchtarprgue/convert-to-mb#readme",
-  "description": ""
+  "description": "",
+  "publishConfig": {
+    "access": "public"
+  }
 }
