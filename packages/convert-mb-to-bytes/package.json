@@ -1,5 +1,5 @@
 {
-  "name": "convertmbtobytes",
+  "name": "@convert-to-mb/convert-mb-to-bytes",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
