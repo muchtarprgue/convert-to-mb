@@ -2,11 +2,11 @@ export function convertMB(val = 0) {
   let res = "0 MB";
   try {
     if (val >= 1000000) {
-      res = (val / 1000000).toFixed(2) + " MB";
+      res = (val / 1000000).toFixed(2).toLocaleString() + " MB";
     } else if (val >= 1000) {
-      res = (val / 1000).toFixed(2) + " KB";
+      res = (val / 1000).toFixed(2).toLocaleString() + " KB";
     } else {
-      res = val.toFixed(2) + " B";
+      res = val.toFixed(2).toLocaleString() + " B";
     }
     return res;
   } catch (error) {
