@@ -10,6 +10,7 @@ Converting Bytes to MB or KB
 
 call convertMB to use, with desired number
 ```    
+import { convertMB } from "convert-to-mb";
 ...
 const bytes = 4412847;
 ....
