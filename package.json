@@ -12,5 +12,6 @@
     "type": "git",
     "url": "git+https://github.com/muchtarprgue/convert-to-mb.git"
   },
-  "typings": "./converttomb.d.ts"
+  "typings": "./converttomb.d.ts",
+  "workspaces": ["convert-mb-to-bytes"]
 }
