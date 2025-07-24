@@ -1,6 +1,6 @@
 {
   "name": "convert-to-mb",
-  "version": "2.5.1",
+  "version": "2.5.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -13,5 +13,7 @@
     "url": "git+https://github.com/muchtarprgue/convert-to-mb.git"
   },
   "typings": "./converttomb.d.ts",
-  "workspaces": ["convert-mb-to-bytes"]
+  "workspaces": [
+    "convert-mb-to-bytes"
+  ]
 }
