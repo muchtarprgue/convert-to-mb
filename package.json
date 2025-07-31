@@ -1,10 +1,10 @@
 {
   "name": "convert-to-mb",
-  "version": "2.5.3",
+  "version": "2.5.4",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "muchtarprgue",
   "license": "ISC",
@@ -15,5 +15,8 @@
   "typings": "./converttomb.d.ts",
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "jest": "^30.0.5"
+  }
 }
